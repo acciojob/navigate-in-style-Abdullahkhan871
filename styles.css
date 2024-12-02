@@ -2,9 +2,10 @@
 	background-color: #D3D3D3;
 	padding: 10px;
 }
+ul{
+	display: flex;
+}
 li{
 	margin-right: 1rem;
-	display: flex;
-	flex-direction: row;
-	/* list-style: none; */
+	list-style: none;
 }
